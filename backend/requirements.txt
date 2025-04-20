@@ -4,5 +4,5 @@ requests
 python-dotenv
 pydantic
 httpx
-retell
+retell-sdk
 vapi_server_sdk
